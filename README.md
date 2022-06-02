@@ -1,9 +1,7 @@
 
-### `npm start`
+启动 npm start
+测试 npm test
+打包 npm run build
 
-### `npm test`
 
-### `npm run build`
-
-### `npm run eject`
 
